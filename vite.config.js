@@ -8,4 +8,5 @@ export default defineConfig({
     host: "0.0.0.0",
     port: 3000,
   },
+  base: 'Web3-landing-page-React-Tailwind', // Replace <repository-name> with your GitHub repository name
 });
