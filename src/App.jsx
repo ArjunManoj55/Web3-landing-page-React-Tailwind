@@ -5,8 +5,9 @@ import Aos from "aos";
 import "aos/dist/aos.css";
 
 // Import Components
+//checking
 
-import Hero from "./components/Hero";
+// import Hero from "./components/Hero";
 import Header from "./components/Header";
 import NavMobile from "./components/NavMobile";
 import Stats from "./components/Stats";
